@@ -79,7 +79,7 @@ function HomePage() {
           className={style.right_section}
         >
           <div className={style.img_section}>
-            <img src={HeroImage} alt="Shivam" className={style.hero_image} />
+            <img src={HeroImage} alt="vikas" className={style.hero_image} />
           </div>
         </motion.div>
       </motion.div>

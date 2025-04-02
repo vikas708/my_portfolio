@@ -9,9 +9,9 @@ import MainContainer from "../../Components/MainContainer/MainContainer";
 // Importing project images
 // import teamtrackrIMG from "../../assets/teamtrackrIMG.png";
 // import marketingIMG from "../../assets/marketingIMG.png";
-import travelHookIMG from "../../assets/travelhookIMG.png";
-import safecamIMG from "../../assets/safecamIMG.png";
-import quizIMG from "../../assets/quizIMG.png";
+// import travelHookIMG from "../../assets/travelhookIMG.png";
+// import safecamIMG from "../../assets/safecamIMG.png";
+// import quizIMG from "../../assets/quizIMG.png";
 // import weatherAppImg from '../../assets/weaht.png';
 import petWatch  from '../../assets/petwatch.png';
 import Updatenews from '../../assets/Updatenews.png'; 
@@ -22,11 +22,11 @@ import ImageEditor from '../../assets/ImageEditor.png';
 // Project data array
 const projectData = [
   {
-    previewLink: "https://thereactquizz.netlify.app/",
-    githubLink: "https://github.com/shivam1611/react-quiz",
+    previewLink: "",
+    githubLink: "",
     projectName: "BamApp3Youtubekidz",
     projectDetails: "Bamaap3YouTubeKidz is a kid-friendly video platform that rewards children with badges for watching educational content.",
-    demoImage: quizIMG,
+    demoImage: "",
     skills: [
       "https://cdn.worldvectorlogo.com/logos/react-2.svg",
       "https://cdn.worldvectorlogo.com/logos/html-1.svg",
@@ -35,11 +35,11 @@ const projectData = [
     ]
   },
   {
-    previewLink: "https://thereactquizz.netlify.app/",
-    githubLink: "https://github.com/shivam1611/react-quiz",
+    previewLink: "",
+    githubLink: "",
     projectName: "Jeddah House of commerce",
     projectDetails: "Jeddah House of Commerce is a platform where company owners list debt-ridden businesses for potential buyers.",
-    demoImage: quizIMG,
+    demoImage: "",
     skills: [
       "https://cdn.worldvectorlogo.com/logos/react-2.svg",
       "https://cdn.worldvectorlogo.com/logos/html-1.svg",
